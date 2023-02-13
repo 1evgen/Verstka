@@ -5,7 +5,6 @@
          url(/Sm/Montserrat-Regular.ttf) format(truetype);
     font-weight: normal;
     font-style: normal;
-
 }
 
 h2 {
@@ -16,8 +15,16 @@ h2 {
     color:crimson;
 }
 
-
 .ChangeColor{
     color:coral
 }
 
+.sizePage{
+    width: 200%;
+    box-sizing: border-box;
+    margin: 30px, 15px;
+    padding: 30px, 20px, 25px;
+}
+
+
+    
