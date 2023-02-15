@@ -1,5 +1,9 @@
+body{
+        background-image: url(../water-texture_\(20\).jpg)
+}
+
 .products{
- background-color: rgb(171, 67, 3);
+ background-color: rgb(247, 101, 101,50);
  color: white;
  padding: 40px 25px; 
  margin: 50px 30px;
@@ -21,4 +25,5 @@ text-align: center;
    margin: 10px auto;
    padding: 10px 15px;
    text-align: center;
+   color:white
 }
